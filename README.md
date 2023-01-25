@@ -1,4 +1,4 @@
-# tailwind demo
+# TailwindCSS demo
 
 This project was built using https://github.com/eskolaaleksi/React-Tailwind-demo as a base. It was used get familiar with building a responsive layout with TailwindCSS.
 
@@ -16,4 +16,4 @@ run `npm run dev` to develop.
 
 ## What it does
 
-Products are fetched from https://fakestoreapi.com/products and placed on a responsively scaling list. Pressing an Add-button appends the item to a list and increases the basket item count.
+Products are fetched from https://fakestoreapi.com/products and placed on a responsively scaling list. Pressing an Add-button appends the item to a list and increases the shopping cart item count.
